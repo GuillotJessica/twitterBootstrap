@@ -1,0 +1,55 @@
+body {
+    background-color: blue;
+      background-color: #f5f8fa;
+}
+
+.twitter {
+    max-width: 30px;
+}
+
+.round {
+    border-radius: 30px;
+}
+
+.brdNone {
+    border: none;
+}
+
+.pnlHead {
+    padding-left: 85px;
+}
+
+
+.twittezButtn {
+    color: white;
+}
+
+table>tbody>tr>td {
+    border: none;
+}
+
+.tdPanelRght {
+    border: none;
+    padding: 0;
+    margin=2px;
+}
+
+.panel-default > .pnlBgdKlor {
+    background-color: blue;
+    height: 100px;
+}
+.centre{
+  text-align: center;
+  display: inline;
+}
+
+.panelImgProfil {
+    position: absolute;
+    border: 4px solid white;
+    top: 60px;
+    z-index: 1000;
+    width: 64px;
+    height: 64px;
+    margin-top: 9px;
+    margin-right: 9px;
+}
